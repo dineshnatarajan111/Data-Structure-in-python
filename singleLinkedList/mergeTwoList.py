@@ -23,7 +23,6 @@ class LinkedList:
 
 def MergeList(headA, headB):
     dummy = Node(0)
-
     tail = dummy
 
     while True:
